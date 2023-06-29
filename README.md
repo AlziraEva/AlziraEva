@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlzirEva
+- 👋 Hi, I’m @AlziraEva
 - 👀 I’m interested in doramas, cats, romance/fantasy books and rainy days.
 - 🌱 I’m currently learning back end software development.
 
