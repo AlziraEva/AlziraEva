@@ -1,8 +1,8 @@
 <img src = "gifcat.gif" width = "325px" align = "right">
 
-# Olá 🙋‍♀️ sou a Eva, desenvolvedora de software.
+# Olá 🙋‍♀️ sou a Eva, desenvolvedora de software
 
-Atualmente estou aprofundando meus conhecimentos em Back-End.
+Atualmente estou aprofundando meus conhecimentos em Back-End
 - Aluna da Cubos Academy 
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
 
