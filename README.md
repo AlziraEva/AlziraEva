@@ -14,12 +14,21 @@ title="Git" alt="Git" width="40" height="40"/>&nbsp;
 title="Node" alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
 title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
-<div>
+  </div>
   
 ---
 
-<div>
-<a href="https://github.com/AlziraEva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlziraEva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<table>
+<tr>
+  
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlziraEva&layout=compact&langs_count=7&theme=dracula"/>
+</td> 
+  
+<td>
+<img  src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</td>
+</tr>
+</table>
+
+
