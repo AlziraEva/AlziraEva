@@ -18,17 +18,9 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   
 ---
 
-<table>
-<tr>
-  
-<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlziraEva&layout=compact&langs_count=7&theme=dracula"/>
-</td> 
-  
-<td>
+
 <img  src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</td>
-</tr>
-</table>
+
 
 
