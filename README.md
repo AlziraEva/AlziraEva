@@ -6,6 +6,8 @@ Atualmente estou aprofundando meus conhecimentos em Back-End
 - Aluna da Cubos Academy 
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
 
+## Tecnologias
+
 <div>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
