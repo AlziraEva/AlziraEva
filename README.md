@@ -20,11 +20,11 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   
 ---
 
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/AlziraEva">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlziraEva&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AlziraEva">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
