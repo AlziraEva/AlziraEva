@@ -1,6 +1,6 @@
 <img src = "gifcat.gif" width = "325px" align = "right">
 
-# Olá 🙋‍♀️ sou a Eva, desenvolvedora de software
+# Olá 🙋‍♀️ sou a Eva, 
 
 Atualmente estou aprofundando meus conhecimentos em Back-End
 - Aluna da Cubos Academy 
@@ -21,7 +21,7 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 ---
 
 <a href="https://git.io/streak-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlziraEva&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlziraEva&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
