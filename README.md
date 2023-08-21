@@ -2,7 +2,8 @@
 
 #  Olá 🙋‍♀️ sou a Eva 
 ### Atualmente estou aprofundando meus conhecimentos em Back-End
-- Aluna da Cubos Academy 
+
+-  Aluna da Cubos Academy 
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
 
 ## Tecnologias
