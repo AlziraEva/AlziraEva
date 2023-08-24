@@ -1,6 +1,6 @@
 <img src = "gifcat.gif" width = "325px" align = "right">
 
-#  Olá 🙋‍♀️ sou a Eva !
+#  Olá ! Sou a Eva 🙋‍♀️
 ### Atualmente estou aprofundando meus conhecimentos em Back-End
 
 - Em transição de carreira da área de fisioterapia
