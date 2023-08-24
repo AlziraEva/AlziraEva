@@ -37,5 +37,8 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-
+<div>
+  
 ![snake gif](https://github.com/AlziraEva/AlziraEva/blob/output/github-contribution-grid-snake.svg)
+
+</div>
