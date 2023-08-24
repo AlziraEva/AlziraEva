@@ -38,4 +38,4 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </a>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlziraEva/AlziraEva/blob/output/github-contribution-grid-snake.svg)
