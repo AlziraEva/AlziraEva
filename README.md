@@ -3,7 +3,9 @@
 #  Olá 🙋‍♀️ sou a Eva 
 ### Atualmente estou aprofundando meus conhecimentos em Back-End
 
--  Aluna da Cubos Academy 
+- Em transição de carreira da área de fisioterapia
+- Aluna da Cubos Academy
+- Adoro resolver problemas através da lógica de programação 
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
 
 ## Tecnologias
