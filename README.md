@@ -21,7 +21,7 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img align="center"src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40"/>&nbsp;
   </div>
 
-## Contatos 
+## Contatos
 
 <div> 
 <a href = "mailto:contato@alziralves1996@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
