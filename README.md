@@ -4,8 +4,8 @@
 ### Atualmente estou aprofundando meus conhecimentos em Back-End
 
 - Em transição de carreira da área de fisioterapia
-- Aluna da Cubos Academy
-- Adoro resolver problemas através da lógica de programação 
+- Aluna da Imã Tech
+- Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web full-stack
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
 
 ## Tecnologias e Ferramentas
