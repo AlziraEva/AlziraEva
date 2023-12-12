@@ -3,8 +3,8 @@
 #  Olá ! Sou a Eva 🙋‍♀️
 ### Atualmente estou em transição de carreira para a área da programação
 
-- Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web full-stack
-- Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
+- Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web Full-Stack 
+- Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia
 
 ## Tecnologias e Ferramentas
 
