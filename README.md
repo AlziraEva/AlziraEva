@@ -1,10 +1,8 @@
 <img src = "gifcat.gif" width = "325px" align = "right">
 
 #  Olá ! Sou a Eva 🙋‍♀️
-### Atualmente estou aprofundando meus conhecimentos em Back-End
+### Atualmente estou em transição de carreira para a área da programação
 
-- Em transição de carreira da área de fisioterapia
-- Aluna da Imã Tech
 - Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web full-stack
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia.
 
