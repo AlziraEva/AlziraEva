@@ -11,6 +11,8 @@
 <div>
 <img align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 title="JavaScript" alt="JavaScript" width="50" height="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+title="TypeScript" alt="Typecript" width="50" height="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 title="vscode" alt="vscode" width="50" height="50"/>
 <img align="center"src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
