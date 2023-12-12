@@ -9,7 +9,10 @@
 ## Tecnologias e Ferramentas
 
 <div>
-<img align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+<img align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+title="JavaScript" alt="JavaScript" width="50" height="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+title="vscode" alt="vscode" width="50" height="50"/>
 <img align="center"src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
 title="Git" alt="Git" width="50" height="50"/>
 <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
@@ -20,9 +23,9 @@ title="SQL" alt="SQL" width="50" height="50"/>
 title="html" alt="html" width="50" height="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 title="css" alt="css" width="50" height="50"/>
-
-
-  </div>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+title="angular" alt="angular" width="50" height="50"/>
+ </div>
 
 ## Contatos
 
