@@ -21,12 +21,6 @@ title="Git" alt="Git" width="50" height="50"/>
 title="Node" alt="Node" width="50" height="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
 title="SQL" alt="SQL" width="50" height="50"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-title="html" alt="html" width="50" height="50"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-title="css" alt="css" width="50" height="50"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-title="angular" alt="angular" width="50" height="50"/>
  </div>
 
 ## Contatos
