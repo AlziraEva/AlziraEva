@@ -11,8 +11,6 @@
 <div>
 <img align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 title="JavaScript" alt="JavaScript" width="50" height="50"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-title="TypeScript" alt="Typecript" width="50" height="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 title="vscode" alt="vscode" width="50" height="50"/>
 <img align="center"src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
@@ -21,6 +19,8 @@ title="Git" alt="Git" width="50" height="50"/>
 title="Node" alt="Node" width="50" height="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
 title="SQL" alt="SQL" width="50" height="50"/>
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+ title="C#" alt="SQL" width="50" height="50"/>         
  </div>
 
 ## Contatos
