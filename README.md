@@ -1,6 +1,4 @@
-<img src = "gifcat.gif" width = "325px" align = "right">
-
-#  Olá ! Sou a Eva 🙋‍♀️
+#  Olá ! Sou a Eva 🙋‍♀️ <img src = "gifcat.gif" width = "325px" align = "right">
 ### Atualmente estou em transição de carreira para a área da programação
 
 - Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web Full-Stack 
