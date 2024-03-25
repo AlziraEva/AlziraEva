@@ -1,8 +1,8 @@
 <div>
 <img src = "gifcat.gif" width = "340" align = "right">
  
-#  Olá ! Sou a Eva 🙋‍♀️  
-#### Atualmente estou em transição de carreira para a área da programação
+###  Olá ! Sou a Eva 🙋‍♀️  
+##### Atualmente estou em transição de carreira para a área da programação
 
 - Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web Full-Stack 
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia
@@ -38,6 +38,7 @@ title="SQL" alt="SQL" width="50" height="50"/>
  
 ### 📊 Estatísticas  
 <br>
+
 <a href="https://github.com/AlziraEva">
   <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=radical" />
 </a>
