@@ -1,11 +1,17 @@
-#  Olá ! Sou a Eva 🙋‍♀️ <img src = "gifcat.gif" width = "325px" align = "right">
-### Atualmente estou em transição de carreira para a área da programação
+<div>
+<img src = "gifcat.gif" width = "340" align = "right">
+ 
+#  Olá ! Sou a Eva 🙋‍♀️  
+#### Atualmente estou em transição de carreira para a área da programação
 
 - Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web Full-Stack 
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia
 
-## Tecnologias e Ferramentas
+</div>
+<br>
 
+### 🌐 Tecnologias e Ferramentas
+<br>
 <div>
 <img align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 title="JavaScript" alt="JavaScript" width="50" height="50"/>
@@ -18,18 +24,20 @@ title="Node" alt="Node" width="50" height="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
 title="SQL" alt="SQL" width="50" height="50"/>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
- title="C#" alt="SQL" width="50" height="50"/>         
+ title="C#" alt="SQL" width="50" height="50"/>  
  </div>
+ <br>
 
-## Contatos
-
+### ☎ Contatos
+<br>
 <div> 
 <a href = "mailto:contato@alziralves1996@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alzira-eva-cavalcanti-alves-a62b97135/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-## Estatísticas  
-
+<br>
+ 
+### 📊 Estatísticas  
+<br>
 <a href="https://github.com/AlziraEva">
   <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=radical" />
 </a>
