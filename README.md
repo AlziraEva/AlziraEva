@@ -43,5 +43,5 @@ title="SQL" alt="SQL" width="50" height="50"/>
   <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=AlziraEva&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AlziraEva">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlziraEva&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlziraEva&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
