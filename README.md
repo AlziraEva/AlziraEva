@@ -21,8 +21,6 @@ title="vscode" alt="vscode" width="50" height="50"/>
 title="Git" alt="Git" width="50" height="50"/>
 <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
 title="Node" alt="Node" width="50" height="50"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" 
-title="SQL" alt="SQL" width="50" height="50"/>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
  title="C#" alt="SQL" width="50" height="50"/>  
  </div>
