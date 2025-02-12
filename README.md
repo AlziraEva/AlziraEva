@@ -2,9 +2,9 @@
 <img src = "gifcat.gif" width = "340" align = "right">
  
 ###  Olá ! Sou a Eva 🙋‍♀️  
-##### Atualmente estou em transição de carreira para a área da programação
+##### Atuo como QA, focada na garantia da qualidade de software por meio de testes automatizados
 
-- Meu foco no momento é aprofundar meus conhecimentos em desenvolvimento web Full-Stack 
+- Meu foco no momento é aprofundar meus conhecimentos em automação de testes
 - Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia
 
 </div>
