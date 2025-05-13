@@ -1,5 +1,5 @@
 <div>
-<img src ="gifcat.gif" width = "340" align = "left">
+<img src ="gifcat.gif" width = "380">
  
 ###  Olá ! Sou a Eva 🙋‍♀️  
 ##### Atuo como QA, focada na garantia da qualidade de software por meio de testes automatizados
