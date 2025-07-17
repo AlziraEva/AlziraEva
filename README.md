@@ -15,12 +15,28 @@
 <div>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 title="vscode" alt="vscode" width="50" height="50"/>
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+ title="Intellij" alt="Intellij" width="50" height="50"/>
 <img align="center"src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
 title="Git" alt="Git" width="50" height="50"/>
 <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
 title="Node" alt="Node" width="50" height="50"/>
- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
- title="C#" alt="SQL" width="50" height="50"/>  
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+ title="C#" alt="C#" width="50" height="50"/>  
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+ title="Python" alt="Python" width="50" height="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+ title="Java" alt="Java" width="50" height="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+ title="Selenium" alt="Selenium" width="50" height="50"/>
+ <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+title="Postman" alt="Postman" width="50" height="50"/>
+
+          
+          
+          
+          
+                  
  </div>
  <br>
 
