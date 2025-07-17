@@ -5,7 +5,6 @@
 ##### Atuo como QA, focada na garantia da qualidade de software por meio de testes automatizados
 
 - Meu foco no momento é aprofundar meus conhecimentos em automação de testes
-- Meus hobbies favoritos são assistir doramas e mergulhar em um bom livro de fantasia
 
 </div>
 <br>
